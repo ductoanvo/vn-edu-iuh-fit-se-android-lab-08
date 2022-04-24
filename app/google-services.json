@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684787626968",
+    "project_id": "vn-edu-iuh-fit-se-android",
+    "storage_bucket": "vn-edu-iuh-fit-se-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684787626968:android:399f21e58b08377ef5f8ad",
+        "android_client_info": {
+          "package_name": "vn.edu.iuh.fit.se.android.lab08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684787626968-g7g8banv921i8j472fmj29aijf7fkn8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPFas-OHOgE1xyZWKMK7IFqasqbSDl6aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684787626968-g7g8banv921i8j472fmj29aijf7fkn8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
